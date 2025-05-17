@@ -1,9 +1,9 @@
 
 ---
 
-# 📖 Story App
+# 📖 Final Story App
 
-**Story App** adalah aplikasi Android yang dikembangkan untuk menampilkan daftar cerita pengguna secara interaktif. Aplikasi ini merupakan pengembangan dari submission sebelumnya, dengan tambahan fitur seperti **tampilan peta lokasi**, **implementasi Paging 3**, dan **unit testing**. Aplikasi ini dibuat untuk memenuhi kriteria proyek akhir dalam studi Android Intermediate.
+**Final Story App** adalah aplikasi Android yang dikembangkan untuk menampilkan daftar cerita pengguna secara interaktif. Aplikasi ini merupakan pengembangan dari submission sebelumnya, dengan tambahan fitur seperti **tampilan peta lokasi**, **implementasi Paging 3**, dan **unit testing**. Aplikasi ini dibuat untuk memenuhi kriteria proyek akhir dalam studi Android Intermediate.
 
 ---
 
