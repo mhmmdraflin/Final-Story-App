@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">first_subsmission_rafli</string>
+
+    <!--Item_story-->
+    <string name="event_name">Dicoding</string>
+    <string name="event_desc">Deskripsi</string>
+
+    <!--welcome_activity-->
+    <string name="title_welcome_page">Selamat Data di Aplikasi Story!!</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+
+    <!--login_activity-->
+    <string name="title_login_page">Silahkan Login\n</string>
+    <string name="message_login_page">Tolong Isi Email Dan Password Anda Terlebih Dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!--register_activity-->
+    <string name="register_page_title">Silahkan Daftar Terlebih dahulu</string>
+    <string name="name">Nama</string>
+
+    <!--upload_activity-->
+    <string name="upload_camera">kamera</string>
+    <string name="upload_gallery">Galeri</string>
+    <string name="description_upload">Tolong Tinggalkan Pesan Disini...</string>
+    <string name="upload_item">Menggunggah</string>
+
+    <!--detail_activity-->
+    <string name="image_description">deskripsi</string>
+    <string name="title_card_item">Dicoding</string>
+    <string name="description_card_item">deskripsi</string>
+    <string name="error">Tolong Masukkan gambar dengan format yang valid</string>
+
+    <!--upload_activity-->
+    <string name="permission">Permintaan izin diberikan oleh pengguna</string>
+    <string name="permission_denied">Mohon Maaf Permintaan izin anda ditolak oleh pengguna</string>
+    <string name="Detail">Detail Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--maps_activity-->
+    <string name="google_maps_key">YOUR_API_KEY</string>
+</resources>
